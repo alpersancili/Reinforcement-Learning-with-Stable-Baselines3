@@ -57,9 +57,12 @@ Training logs saved in logs/ for TensorBoard visualization
 ## File Structure
 .
 ├── models/                 # Saved models
+
 ├── logs/                   # Training logs
+
 ├── main.py                 # Main training/testing script
-└── README.md               # This file
+
+├── README.md               # This file
 
 ## Customization
 You can modify:
